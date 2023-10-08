@@ -1,0 +1,15 @@
+/Users/Melu/Documents/Code/OOPFoodOrdering/IFoodOrderingSystem/bin/Debug/net7.0/IFoodOrderingSystem.deps.json
+/Users/Melu/Documents/Code/OOPFoodOrdering/IFoodOrderingSystem/bin/Debug/net7.0/IFoodOrderingSystem.dll
+/Users/Melu/Documents/Code/OOPFoodOrdering/IFoodOrderingSystem/bin/Debug/net7.0/IFoodOrderingSystem.pdb
+/Users/Melu/Documents/Code/OOPFoodOrdering/IFoodOrderingSystem/bin/Debug/net7.0/MenuModel.dll
+/Users/Melu/Documents/Code/OOPFoodOrdering/IFoodOrderingSystem/bin/Debug/net7.0/MenuModel.pdb
+/Users/Melu/Documents/Code/OOPFoodOrdering/IFoodOrderingSystem/obj/Debug/net7.0/IFoodOrderingSystem.csproj.AssemblyReference.cache
+/Users/Melu/Documents/Code/OOPFoodOrdering/IFoodOrderingSystem/obj/Debug/net7.0/IFoodOrderingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Melu/Documents/Code/OOPFoodOrdering/IFoodOrderingSystem/obj/Debug/net7.0/IFoodOrderingSystem.AssemblyInfoInputs.cache
+/Users/Melu/Documents/Code/OOPFoodOrdering/IFoodOrderingSystem/obj/Debug/net7.0/IFoodOrderingSystem.AssemblyInfo.cs
+/Users/Melu/Documents/Code/OOPFoodOrdering/IFoodOrderingSystem/obj/Debug/net7.0/IFoodOrderingSystem.csproj.CoreCompileInputs.cache
+/Users/Melu/Documents/Code/OOPFoodOrdering/IFoodOrderingSystem/obj/Debug/net7.0/IFoodOrderingSystem.csproj.CopyComplete
+/Users/Melu/Documents/Code/OOPFoodOrdering/IFoodOrderingSystem/obj/Debug/net7.0/IFoodOrderingSystem.dll
+/Users/Melu/Documents/Code/OOPFoodOrdering/IFoodOrderingSystem/obj/Debug/net7.0/refint/IFoodOrderingSystem.dll
+/Users/Melu/Documents/Code/OOPFoodOrdering/IFoodOrderingSystem/obj/Debug/net7.0/IFoodOrderingSystem.pdb
+/Users/Melu/Documents/Code/OOPFoodOrdering/IFoodOrderingSystem/obj/Debug/net7.0/ref/IFoodOrderingSystem.dll
