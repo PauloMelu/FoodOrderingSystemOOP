@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Melu/Documents/Code/OOPFoodOrdering/MenuModel/MenuModel.csproj": {}
+    "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/MenuModel.csproj": {}
   },
   "projects": {
-    "/Users/Melu/Documents/Code/OOPFoodOrdering/MenuModel/MenuModel.csproj": {
+    "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/MenuModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Melu/Documents/Code/OOPFoodOrdering/MenuModel/MenuModel.csproj",
+        "projectUniqueName": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/MenuModel.csproj",
         "projectName": "MenuModel",
-        "projectPath": "/Users/Melu/Documents/Code/OOPFoodOrdering/MenuModel/MenuModel.csproj",
+        "projectPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/MenuModel.csproj",
         "packagesPath": "/Users/Melu/.nuget/packages/",
-        "outputPath": "/Users/Melu/Documents/Code/OOPFoodOrdering/MenuModel/obj/",
+        "outputPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Melu/.nuget/NuGet/NuGet.Config"

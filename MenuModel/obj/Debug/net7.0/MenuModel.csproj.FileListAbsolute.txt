@@ -10,3 +10,15 @@
 /Users/Melu/Documents/Code/OOPFoodOrdering/MenuModel/obj/Debug/net7.0/refint/MenuModel.dll
 /Users/Melu/Documents/Code/OOPFoodOrdering/MenuModel/obj/Debug/net7.0/MenuModel.pdb
 /Users/Melu/Documents/Code/OOPFoodOrdering/MenuModel/obj/Debug/net7.0/ref/MenuModel.dll
+/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/bin/Debug/net7.0/MenuModel.deps.json
+/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/bin/Debug/net7.0/MenuModel.dll
+/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/bin/Debug/net7.0/MenuModel.pdb
+/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/obj/Debug/net7.0/MenuModel.csproj.AssemblyReference.cache
+/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/obj/Debug/net7.0/MenuModel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/obj/Debug/net7.0/MenuModel.AssemblyInfoInputs.cache
+/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/obj/Debug/net7.0/MenuModel.AssemblyInfo.cs
+/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/obj/Debug/net7.0/MenuModel.csproj.CoreCompileInputs.cache
+/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/obj/Debug/net7.0/MenuModel.dll
+/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/obj/Debug/net7.0/refint/MenuModel.dll
+/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/obj/Debug/net7.0/MenuModel.pdb
+/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/obj/Debug/net7.0/ref/MenuModel.dll

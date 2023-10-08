@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Melu/Documents/Code/OOPFoodOrdering/FoodOrderingSystemConsole/FoodOrderingSystemConsole.csproj": {}
+    "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/FoodOrderingSystemConsole/FoodOrderingSystemConsole.csproj": {}
   },
   "projects": {
-    "/Users/Melu/Documents/Code/OOPFoodOrdering/FoodOrderingSystemBusLogic/FoodOrderingSystemBusLogic.csproj": {
+    "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/FoodOrderingSystemBusLogic/FoodOrderingSystemBusLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Melu/Documents/Code/OOPFoodOrdering/FoodOrderingSystemBusLogic/FoodOrderingSystemBusLogic.csproj",
+        "projectUniqueName": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/FoodOrderingSystemBusLogic/FoodOrderingSystemBusLogic.csproj",
         "projectName": "FoodOrderingSystemBusLogic",
-        "projectPath": "/Users/Melu/Documents/Code/OOPFoodOrdering/FoodOrderingSystemBusLogic/FoodOrderingSystemBusLogic.csproj",
+        "projectPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/FoodOrderingSystemBusLogic/FoodOrderingSystemBusLogic.csproj",
         "packagesPath": "/Users/Melu/.nuget/packages/",
-        "outputPath": "/Users/Melu/Documents/Code/OOPFoodOrdering/FoodOrderingSystemBusLogic/obj/",
+        "outputPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/FoodOrderingSystemBusLogic/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Melu/.nuget/NuGet/NuGet.Config"
@@ -26,11 +26,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/Melu/Documents/Code/OOPFoodOrdering/IFoodOrderingSystem/IFoodOrderingSystem.csproj": {
-                "projectPath": "/Users/Melu/Documents/Code/OOPFoodOrdering/IFoodOrderingSystem/IFoodOrderingSystem.csproj"
+              "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/IFoodOrderingSystem/IFoodOrderingSystem.csproj": {
+                "projectPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/IFoodOrderingSystem/IFoodOrderingSystem.csproj"
               },
-              "/Users/Melu/Documents/Code/OOPFoodOrdering/MenuModel/MenuModel.csproj": {
-                "projectPath": "/Users/Melu/Documents/Code/OOPFoodOrdering/MenuModel/MenuModel.csproj"
+              "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/MenuModel.csproj": {
+                "projectPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/MenuModel.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "/Users/Melu/Documents/Code/OOPFoodOrdering/FoodOrderingSystemConsole/FoodOrderingSystemConsole.csproj": {
+    "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/FoodOrderingSystemConsole/FoodOrderingSystemConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Melu/Documents/Code/OOPFoodOrdering/FoodOrderingSystemConsole/FoodOrderingSystemConsole.csproj",
+        "projectUniqueName": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/FoodOrderingSystemConsole/FoodOrderingSystemConsole.csproj",
         "projectName": "FoodOrderingSystemConsole",
-        "projectPath": "/Users/Melu/Documents/Code/OOPFoodOrdering/FoodOrderingSystemConsole/FoodOrderingSystemConsole.csproj",
+        "projectPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/FoodOrderingSystemConsole/FoodOrderingSystemConsole.csproj",
         "packagesPath": "/Users/Melu/.nuget/packages/",
-        "outputPath": "/Users/Melu/Documents/Code/OOPFoodOrdering/FoodOrderingSystemConsole/obj/",
+        "outputPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/FoodOrderingSystemConsole/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Melu/.nuget/NuGet/NuGet.Config"
@@ -104,14 +104,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/Melu/Documents/Code/OOPFoodOrdering/FoodOrderingSystemBusLogic/FoodOrderingSystemBusLogic.csproj": {
-                "projectPath": "/Users/Melu/Documents/Code/OOPFoodOrdering/FoodOrderingSystemBusLogic/FoodOrderingSystemBusLogic.csproj"
+              "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/FoodOrderingSystemBusLogic/FoodOrderingSystemBusLogic.csproj": {
+                "projectPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/FoodOrderingSystemBusLogic/FoodOrderingSystemBusLogic.csproj"
               },
-              "/Users/Melu/Documents/Code/OOPFoodOrdering/IFoodOrderingSystem/IFoodOrderingSystem.csproj": {
-                "projectPath": "/Users/Melu/Documents/Code/OOPFoodOrdering/IFoodOrderingSystem/IFoodOrderingSystem.csproj"
+              "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/IFoodOrderingSystem/IFoodOrderingSystem.csproj": {
+                "projectPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/IFoodOrderingSystem/IFoodOrderingSystem.csproj"
               },
-              "/Users/Melu/Documents/Code/OOPFoodOrdering/MenuModel/MenuModel.csproj": {
-                "projectPath": "/Users/Melu/Documents/Code/OOPFoodOrdering/MenuModel/MenuModel.csproj"
+              "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/MenuModel.csproj": {
+                "projectPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/MenuModel.csproj"
               }
             }
           }
@@ -145,14 +145,14 @@
         }
       }
     },
-    "/Users/Melu/Documents/Code/OOPFoodOrdering/IFoodOrderingSystem/IFoodOrderingSystem.csproj": {
+    "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/IFoodOrderingSystem/IFoodOrderingSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Melu/Documents/Code/OOPFoodOrdering/IFoodOrderingSystem/IFoodOrderingSystem.csproj",
+        "projectUniqueName": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/IFoodOrderingSystem/IFoodOrderingSystem.csproj",
         "projectName": "IFoodOrderingSystem",
-        "projectPath": "/Users/Melu/Documents/Code/OOPFoodOrdering/IFoodOrderingSystem/IFoodOrderingSystem.csproj",
+        "projectPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/IFoodOrderingSystem/IFoodOrderingSystem.csproj",
         "packagesPath": "/Users/Melu/.nuget/packages/",
-        "outputPath": "/Users/Melu/Documents/Code/OOPFoodOrdering/IFoodOrderingSystem/obj/",
+        "outputPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/IFoodOrderingSystem/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Melu/.nuget/NuGet/NuGet.Config"
@@ -167,8 +167,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/Melu/Documents/Code/OOPFoodOrdering/MenuModel/MenuModel.csproj": {
-                "projectPath": "/Users/Melu/Documents/Code/OOPFoodOrdering/MenuModel/MenuModel.csproj"
+              "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/MenuModel.csproj": {
+                "projectPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/MenuModel.csproj"
               }
             }
           }
@@ -202,14 +202,14 @@
         }
       }
     },
-    "/Users/Melu/Documents/Code/OOPFoodOrdering/MenuModel/MenuModel.csproj": {
+    "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/MenuModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Melu/Documents/Code/OOPFoodOrdering/MenuModel/MenuModel.csproj",
+        "projectUniqueName": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/MenuModel.csproj",
         "projectName": "MenuModel",
-        "projectPath": "/Users/Melu/Documents/Code/OOPFoodOrdering/MenuModel/MenuModel.csproj",
+        "projectPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/MenuModel.csproj",
         "packagesPath": "/Users/Melu/.nuget/packages/",
-        "outputPath": "/Users/Melu/Documents/Code/OOPFoodOrdering/MenuModel/obj/",
+        "outputPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Melu/.nuget/NuGet/NuGet.Config"

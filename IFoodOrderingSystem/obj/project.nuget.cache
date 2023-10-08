@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xaSQWT8DmXEI3Q/60opePzqXDmqi4BKPczOeg92wmBn9SqqpPVrxeCBnfYrCbAVkA2MhWd9uCqMSUYbvwgYIRw==",
+  "dgSpecHash": "3QFG0iT+KgnKDxRzcPfmEtTJ0uAJNKyfLy8pHiSNemBj342EnkGh2sgAV6YGQUboqA6dCXBpFf2QbHeJR4z/Zg==",
   "success": true,
-  "projectFilePath": "/Users/Melu/Documents/Code/OOPFoodOrdering/IFoodOrderingSystem/IFoodOrderingSystem.csproj",
+  "projectFilePath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/IFoodOrderingSystem/IFoodOrderingSystem.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

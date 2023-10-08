@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b5y4apxR2Zemrqo9iUX/2RYiSoS83y4Gbz+qi5hqgfU2RisnAsA95m8BhpRtJ9eBKL5yh0Alai10eN4he/uEFA==",
+  "dgSpecHash": "80pRxiWv4tqvWIgnmLMKhS5MKGp3JEu9KxVQek6/0+j51fIax8VM+rRHyHLA3Zw8TseUyqC4gdyFXX7C9w56Hw==",
   "success": true,
-  "projectFilePath": "/Users/Melu/Documents/Code/OOPFoodOrdering/FoodOrderingSystem.web/FoodOrderingSystem.web.csproj",
+  "projectFilePath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/FoodOrderingSystem.web/FoodOrderingSystem.web.csproj",
   "expectedPackageFiles": [
     "/Users/Melu/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/Melu/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
