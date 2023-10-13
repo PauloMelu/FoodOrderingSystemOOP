@@ -1,34 +1,34 @@
 ﻿<Properties StartupConfiguration="{14920711-397E-4CD5-9038-959BF2E0BB6A}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="FoodOrderingSystemConsole/Program.cs">
     <Files>
-      <File FileName="FoodOrderingSystemBusLogic/Context/FoodOrderingSystemDBContext.cs" Line="13" Column="33" />
-      <File FileName="FoodOrderingSystemConsole/Program.cs" Line="20" Column="1" />
+      <File FileName="FoodOrderingSystemBusLogic/Context/FoodOrderingSystemDBContext.cs" Line="16" Column="2" />
+      <File FileName="FoodOrderingSystemConsole/Program.cs" Line="5" Column="31" />
       <File FileName="FoodOrderingSystemBusLogic/MenuManager.cs" Line="13" Column="30" />
-      <File FileName="IFoodOrderingSystem/IMenuManager.cs" Line="13" Column="66" />
+      <File FileName="IFoodOrderingSystem/IMenuManager.cs" />
+      <File FileName="FoodOrderingSystemBusLogic/Context/DBModel/MenuDetails.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="OOPFoodOrdering" expanded="True">
             <Node name="FoodOrderingSystemBusLogic" expanded="True">
+              <Node name="Dependencies" expanded="True" />
               <Node name="Context" expanded="True">
                 <Node name="DBModel" expanded="True" />
               </Node>
             </Node>
-            <Node name="FoodOrderingSystemConsole">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="FoodOrderingSystemConsole" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.FoodOrderingSystemConsole PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.FoodOrderingSystem.web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FoodOrderingSystem.web PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

@@ -2,7 +2,7 @@
 using FoodOrderingSystem.Model;
 using FoodOrderingSystemBusLogic;
 
-Console.WriteLine("Hello, World!!!");
+Console.WriteLine("Hello World");
 
 FoodOrderingSystemModel menuItem = new();
 IMenuManager menuManager = new MenuManager();
