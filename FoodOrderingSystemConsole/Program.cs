@@ -16,4 +16,4 @@ int priceInput = Convert.ToInt32(Console.ReadLine());
 menuItem.FoodName = foodNameInput;
 menuItem.Price = priceInput;
 
-menuManager.AddMenu(menuItem);
+menuManager.SetMenu();

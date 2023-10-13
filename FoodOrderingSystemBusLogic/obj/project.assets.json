@@ -2727,7 +2727,6 @@
       "MenuModel >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.11",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.11",
-      "Npgsql >= 7.0.6",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 7.0.11"
     ]
   },
@@ -2782,10 +2781,6 @@
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[7.0.11, )"
-          },
-          "Npgsql": {
-            "target": "Package",
-            "version": "[7.0.6, )"
           },
           "Npgsql.EntityFrameworkCore.PostgreSQL": {
             "target": "Package",
