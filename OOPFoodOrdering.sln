@@ -13,6 +13,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodOrderingSystemBusLogic"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodOrderingSystem.web", "FoodOrderingSystem.web\FoodOrderingSystem.web.csproj", "{CFE2AA5B-3161-41B8-A67E-13799D894831}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Quiz1Midterm", "Quiz1Midterm", "{04EBFCA8-8D6E-4D79-9E1F-50AFB1B262F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManager", "PayrollSystemManager\EmployeeManager.csproj", "{0F87D436-586F-4370-A5AF-A23A95BFAC75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeModel", "PayrollSystemManager\EmployeeModel\EmployeeModel.csproj", "{17DCD735-CD6A-44D4-8CAA-FBC4E23FC287}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayrollSystemConsole", "PayrollSystemManager\PayrollSystemConsole\PayrollSystemConsole.csproj", "{84216B51-67D4-4FA4-98E9-B001D32764E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayrollSystemBusLogic", "PayrollSystemManager\PayrollSystemBusLogic\PayrollSystemBusLogic.csproj", "{C5D4B971-334F-4685-81AF-8C5F31B0E6B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,11 +49,33 @@ Global
 		{CFE2AA5B-3161-41B8-A67E-13799D894831}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFE2AA5B-3161-41B8-A67E-13799D894831}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFE2AA5B-3161-41B8-A67E-13799D894831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F87D436-586F-4370-A5AF-A23A95BFAC75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F87D436-586F-4370-A5AF-A23A95BFAC75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F87D436-586F-4370-A5AF-A23A95BFAC75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F87D436-586F-4370-A5AF-A23A95BFAC75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17DCD735-CD6A-44D4-8CAA-FBC4E23FC287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17DCD735-CD6A-44D4-8CAA-FBC4E23FC287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17DCD735-CD6A-44D4-8CAA-FBC4E23FC287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17DCD735-CD6A-44D4-8CAA-FBC4E23FC287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84216B51-67D4-4FA4-98E9-B001D32764E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84216B51-67D4-4FA4-98E9-B001D32764E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84216B51-67D4-4FA4-98E9-B001D32764E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84216B51-67D4-4FA4-98E9-B001D32764E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5D4B971-334F-4685-81AF-8C5F31B0E6B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D4B971-334F-4685-81AF-8C5F31B0E6B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D4B971-334F-4685-81AF-8C5F31B0E6B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D4B971-334F-4685-81AF-8C5F31B0E6B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D90345F4-1423-4838-A4CF-53DFA8651BDA}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0F87D436-586F-4370-A5AF-A23A95BFAC75} = {04EBFCA8-8D6E-4D79-9E1F-50AFB1B262F6}
+		{17DCD735-CD6A-44D4-8CAA-FBC4E23FC287} = {04EBFCA8-8D6E-4D79-9E1F-50AFB1B262F6}
+		{84216B51-67D4-4FA4-98E9-B001D32764E6} = {04EBFCA8-8D6E-4D79-9E1F-50AFB1B262F6}
+		{C5D4B971-334F-4685-81AF-8C5F31B0E6B6} = {04EBFCA8-8D6E-4D79-9E1F-50AFB1B262F6}
 	EndGlobalSection
 EndGlobal

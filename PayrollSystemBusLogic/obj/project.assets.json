@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "ContractualEmployee/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ContractualEmployee.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ContractualEmployee.dll": {}
+        }
+      },
+      "PartTimeEmployee/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/PartTimeEmployee.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PartTimeEmployee.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContractualEmployee/1.0.0": {
+      "type": "project",
+      "path": "ContractualEmployee/ContractualEmployee.csproj",
+      "msbuildProject": "ContractualEmployee/ContractualEmployee.csproj"
+    },
+    "PartTimeEmployee/1.0.0": {
+      "type": "project",
+      "path": "PartTimeEmployee/PartTimeEmployee.csproj",
+      "msbuildProject": "PartTimeEmployee/PartTimeEmployee.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "ContractualEmployee >= 1.0.0",
+      "PartTimeEmployee >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/Melu/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemBusLogic/Employee.csproj",
+      "projectName": "Employee",
+      "projectPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemBusLogic/Employee.csproj",
+      "packagesPath": "/Users/Melu/.nuget/packages/",
+      "outputPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemBusLogic/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/Melu/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemBusLogic/ContractualEmployee/ContractualEmployee.csproj": {
+              "projectPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemBusLogic/ContractualEmployee/ContractualEmployee.csproj"
+            },
+            "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemBusLogic/PartTimeEmployee/PartTimeEmployee.csproj": {
+              "projectPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemBusLogic/PartTimeEmployee/PartTimeEmployee.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

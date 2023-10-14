@@ -1,0 +1,379 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/PayrollSystemBusLogic/PayrollSystemBusLogic.csproj": {}
+  },
+  "projects": {
+    "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/FoodOrderingSystemBusLogic/FoodOrderingSystemBusLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/FoodOrderingSystemBusLogic/FoodOrderingSystemBusLogic.csproj",
+        "projectName": "FoodOrderingSystemBusLogic",
+        "projectPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/FoodOrderingSystemBusLogic/FoodOrderingSystemBusLogic.csproj",
+        "packagesPath": "/Users/Melu/.nuget/packages/",
+        "outputPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/FoodOrderingSystemBusLogic/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Melu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/IFoodOrderingSystem/IFoodOrderingSystem.csproj": {
+                "projectPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/IFoodOrderingSystem/IFoodOrderingSystem.csproj"
+              },
+              "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/MenuModel.csproj": {
+                "projectPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/MenuModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/IFoodOrderingSystem/IFoodOrderingSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/IFoodOrderingSystem/IFoodOrderingSystem.csproj",
+        "projectName": "IFoodOrderingSystem",
+        "projectPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/IFoodOrderingSystem/IFoodOrderingSystem.csproj",
+        "packagesPath": "/Users/Melu/.nuget/packages/",
+        "outputPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/IFoodOrderingSystem/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Melu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/MenuModel.csproj": {
+                "projectPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/MenuModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/MenuModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/MenuModel.csproj",
+        "projectName": "MenuModel",
+        "projectPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/MenuModel.csproj",
+        "packagesPath": "/Users/Melu/.nuget/packages/",
+        "outputPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/MenuModel/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Melu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/EmployeeManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/EmployeeManager.csproj",
+        "projectName": "EmployeeManager",
+        "projectPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/EmployeeManager.csproj",
+        "packagesPath": "/Users/Melu/.nuget/packages/",
+        "outputPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Melu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/FoodOrderingSystemBusLogic/FoodOrderingSystemBusLogic.csproj": {
+                "projectPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/FoodOrderingSystemBusLogic/FoodOrderingSystemBusLogic.csproj"
+              },
+              "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/EmployeeModel/EmployeeModel.csproj": {
+                "projectPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/EmployeeModel/EmployeeModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/EmployeeModel/EmployeeModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/EmployeeModel/EmployeeModel.csproj",
+        "projectName": "EmployeeModel",
+        "projectPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/EmployeeModel/EmployeeModel.csproj",
+        "packagesPath": "/Users/Melu/.nuget/packages/",
+        "outputPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/EmployeeModel/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Melu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/PayrollSystemBusLogic/PayrollSystemBusLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/PayrollSystemBusLogic/PayrollSystemBusLogic.csproj",
+        "projectName": "PayrollSystemBusLogic",
+        "projectPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/PayrollSystemBusLogic/PayrollSystemBusLogic.csproj",
+        "packagesPath": "/Users/Melu/.nuget/packages/",
+        "outputPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/PayrollSystemBusLogic/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Melu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/FoodOrderingSystemBusLogic/FoodOrderingSystemBusLogic.csproj": {
+                "projectPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/FoodOrderingSystemBusLogic/FoodOrderingSystemBusLogic.csproj"
+              },
+              "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/EmployeeManager.csproj": {
+                "projectPath": "/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/EmployeeManager.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

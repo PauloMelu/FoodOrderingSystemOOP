@@ -1,0 +1,12 @@
+/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/EmployeeModel/bin/Debug/net7.0/EmployeeModel.deps.json
+/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/EmployeeModel/bin/Debug/net7.0/EmployeeModel.dll
+/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/EmployeeModel/bin/Debug/net7.0/EmployeeModel.pdb
+/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/EmployeeModel/obj/Debug/net7.0/EmployeeModel.csproj.AssemblyReference.cache
+/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/EmployeeModel/obj/Debug/net7.0/EmployeeModel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/EmployeeModel/obj/Debug/net7.0/EmployeeModel.AssemblyInfoInputs.cache
+/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/EmployeeModel/obj/Debug/net7.0/EmployeeModel.AssemblyInfo.cs
+/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/EmployeeModel/obj/Debug/net7.0/EmployeeModel.csproj.CoreCompileInputs.cache
+/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/EmployeeModel/obj/Debug/net7.0/EmployeeModel.dll
+/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/EmployeeModel/obj/Debug/net7.0/refint/EmployeeModel.dll
+/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/EmployeeModel/obj/Debug/net7.0/EmployeeModel.pdb
+/Users/Melu/Documents/GitHub/FoodOrderingSystemOOP/PayrollSystemManager/EmployeeModel/obj/Debug/net7.0/ref/EmployeeModel.dll

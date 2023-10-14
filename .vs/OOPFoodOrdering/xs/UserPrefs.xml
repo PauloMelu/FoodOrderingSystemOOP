@@ -1,34 +1,42 @@
 ﻿<Properties StartupConfiguration="{14920711-397E-4CD5-9038-959BF2E0BB6A}|Default">
+  <MonoDevelop.Ide.ItemProperties.FoodOrderingSystem.web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.FoodOrderingSystemConsole PreferredExecutionTarget="MonoDevelop.Default" />
+  <DisabledProjects>
+    <String>PayrollSystemBusLogic/ContractualEmployee/ContractualEmployee.csproj</String>
+    <String>PayrollSystemBusLogic/IPayrollSystem/IPayrollSystem.csproj</String>
+    <String>PayrollSystemBusLogic/PartTimeEmployee/PartTimeEmployee.csproj</String>
+    <String>PayrollSystemBusLogic/RegularEmployee/RegularEmployee.csproj</String>
+    <String>PayrollSystemBusLogic/Employee.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.Quiz1Midterm.EmployeeManager FirstBuild="True" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="FoodOrderingSystemConsole/Program.cs">
     <Files>
-      <File FileName="FoodOrderingSystemBusLogic/Context/FoodOrderingSystemDBContext.cs" Line="16" Column="2" />
-      <File FileName="FoodOrderingSystemConsole/Program.cs" Line="5" Column="31" />
-      <File FileName="FoodOrderingSystemBusLogic/MenuManager.cs" Line="13" Column="30" />
+      <File FileName="FoodOrderingSystemBusLogic/Context/FoodOrderingSystemDBContext.cs" />
+      <File FileName="FoodOrderingSystemConsole/Program.cs" Line="2" Column="32" />
+      <File FileName="FoodOrderingSystemBusLogic/MenuManager.cs" />
       <File FileName="IFoodOrderingSystem/IMenuManager.cs" />
-      <File FileName="FoodOrderingSystemBusLogic/Context/DBModel/MenuDetails.cs" Line="1" Column="1" />
+      <File FileName="FoodOrderingSystemBusLogic/Context/DBModel/MenuDetails.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="OOPFoodOrdering" expanded="True">
+          <Node name="OOPFoodOrdering">
             <Node name="FoodOrderingSystemBusLogic" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="Context" expanded="True">
-                <Node name="DBModel" expanded="True" />
-              </Node>
+              <Node name="Context" expanded="True" />
             </Node>
-            <Node name="FoodOrderingSystemConsole" expanded="True" />
+            <Node name="FoodOrderingSystemConsole" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.FoodOrderingSystemConsole PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.FoodOrderingSystem.web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Quiz1Midterm.PayrollSystemConsole FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.Quiz1Midterm.PayrollSystemBusLogic FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Quiz1Midterm.EmployeeModel FirstBuild="True" />
 </Properties>

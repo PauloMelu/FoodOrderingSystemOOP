@@ -12,6 +12,6 @@ namespace IFoodOrderingSystem
         public void AddMenu(FoodOrderingSystemModel menuItem);
         public void RemoveMenu(FoodOrderingSystemModel menuItem);
 
-        public void SetMenu();
+        
     }
 }
